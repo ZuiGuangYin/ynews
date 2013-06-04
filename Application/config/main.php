@@ -8,8 +8,8 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath' => dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name' => 'yNews',
-	//Ä¬ÈÏÓïÑÔ
+	'name' => 'ynews',
+	//Ä¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	
 	//'language' => 'zh_cn',
 	// preloading 'log' component
